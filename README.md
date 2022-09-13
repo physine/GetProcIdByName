@@ -9,7 +9,6 @@ This Program need to be compiles with Microsoft's Visual C++ compiler.  To do so
         Copyright (C) Microsoft Corporation.  All rights reserved.
 
         memoryEditor.cpp
-        C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\ostream(339): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
 
         Microsoft (R) Incremental Linker Version 14.29.30133.0
         Copyright (C) Microsoft Corporation.  All rights reserved.
